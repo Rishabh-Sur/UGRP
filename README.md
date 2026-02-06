@@ -353,6 +353,6 @@ pip install numpy matplotlib scikit-learn scipy
 
 ## References
 
-- EngineBench Dataset: [Kaggle](https://www.kaggle.com/datasets/samueljbaker/enginebench)
+- EngineBench Dataset: [Dataset]([https://eng.ox.ac.uk/tpsrg/research/enginebench])
 - Q-Criterion: Hunt et al. (1988) "Eddies, streams, and convergence zones in turbulent flows"
 - Δ Criterion: Chong et al. (1990) "A general classification of three-dimensional flow fields"
